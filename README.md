@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **IbrahimMot/IbrahimMot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hello, I'm Ibrahim Motemri 🐘</b></h1>
 </p>
-<h4 align="center"><b>I am a Cloud Student Engineer and a Full Stack Developer</b></h4>
+<h4 align="center"><b>I am a Cloud Student Engineer</b></h4>
 <p>
   <h4 align="center"><b>"Well, my conclusion is: Hate is baggage. Life's too short to be p-ssed off all the time. It's just not worth it. "</b></h4>
 </p>
