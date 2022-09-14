@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img align="center" alt="2set" src="https://preview.redd.it/9uv24luatcz51.jpg?width=640&crop=smart&auto=webp&s=7b022d64ddb54f36f5b8d12cd566fbcbc8832930" />
+<img align="center" alt="2set" src="https://i.pinimg.com/originals/69/3b/e7/693be7ecc80ccb76e68666c464fee042.jpg" />
 </p>
